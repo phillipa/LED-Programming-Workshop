@@ -3,6 +3,16 @@
 <Pages collapsible-pages="yes" drawer-with-page="yes">
 <Page page-color="128 128 128" page-drawer="Main" page-infullview="yes" page-name="Main" page-width="1920">
 <PageBlocks>
+<Block genus-name="number" id="3072">
+<Label>10</Label>
+<Location>
+<X>608</X>
+<Y>248</Y>
+</Location>
+<Plug>
+<BlockConnector con-block-id="3069" connector-kind="plug" connector-type="number" init-type="number" label="" position-type="mirror"/>
+</Plug>
+</Block>
 <Block genus-name="ada_neopixel_multiple_pixels_colorRGB" id="3069">
 <Location>
 <X>234</X>
@@ -43,16 +53,6 @@
 <Location>
 <X>608</X>
 <Y>272</Y>
-</Location>
-<Plug>
-<BlockConnector con-block-id="3069" connector-kind="plug" connector-type="number" init-type="number" label="" position-type="mirror"/>
-</Plug>
-</Block>
-<Block genus-name="number" id="3072">
-<Label>20</Label>
-<Location>
-<X>608</X>
-<Y>248</Y>
 </Location>
 <Plug>
 <BlockConnector con-block-id="3069" connector-kind="plug" connector-type="number" init-type="number" label="" position-type="mirror"/>
@@ -109,7 +109,7 @@
 </Plug>
 </Block>
 <Block genus-name="number" id="2587">
-<Label>20</Label>
+<Label>10</Label>
 <Location>
 <X>573</X>
 <Y>110</Y>

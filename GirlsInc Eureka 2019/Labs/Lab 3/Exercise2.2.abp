@@ -70,7 +70,7 @@
 </Plug>
 </Block>
 <Block genus-name="number" id="3072">
-<Label>20</Label>
+<Label>10</Label>
 <Location>
 <X>896</X>
 <Y>340</Y>
@@ -165,7 +165,7 @@
 </Plug>
 </Block>
 <Block genus-name="number" id="3063">
-<Label>20</Label>
+<Label>10</Label>
 <Location>
 <X>996</X>
 <Y>567</Y>
@@ -260,7 +260,7 @@
 </Plug>
 </Block>
 <Block genus-name="number" id="3056">
-<Label>20</Label>
+<Label>10</Label>
 <Location>
 <X>1060</X>
 <Y>794</Y>
@@ -289,7 +289,7 @@
 </Plug>
 </Block>
 <Block genus-name="number" id="2696">
-<Label>20</Label>
+<Label>10</Label>
 <Location>
 <X>424</X>
 <Y>224</Y>
@@ -485,7 +485,7 @@
 </Plug>
 </Block>
 <Block genus-name="number" id="2587">
-<Label>20</Label>
+<Label>10</Label>
 <Location>
 <X>573</X>
 <Y>110</Y>

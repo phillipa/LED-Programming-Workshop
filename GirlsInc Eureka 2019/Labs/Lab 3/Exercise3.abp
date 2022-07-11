@@ -3,10 +3,20 @@
 <Pages collapsible-pages="yes" drawer-with-page="yes">
 <Page page-color="128 128 128" page-drawer="Main" page-infullview="yes" page-name="Main" page-width="1920">
 <PageBlocks>
+<Block genus-name="number" id="3081">
+<Label>10</Label>
+<Location>
+<X>1072</X>
+<Y>722</Y>
+</Location>
+<Plug>
+<BlockConnector con-block-id="3079" connector-kind="plug" connector-type="number" init-type="number" label="" position-type="mirror"/>
+</Plug>
+</Block>
 <Block genus-name="variable_number" id="3090">
 <Label>variable name</Label>
 <Location>
-<X>1058</X>
+<X>1072</X>
 <Y>746</Y>
 </Location>
 <Plug>
@@ -31,7 +41,7 @@
 <Block genus-name="number" id="3085">
 <Label>255</Label>
 <Location>
-<X>1058</X>
+<X>1072</X>
 <Y>818</Y>
 </Location>
 <Plug>
@@ -41,7 +51,7 @@
 <Block genus-name="number" id="3084">
 <Label>0</Label>
 <Location>
-<X>1058</X>
+<X>1072</X>
 <Y>794</Y>
 </Location>
 <Plug>
@@ -51,18 +61,8 @@
 <Block genus-name="number" id="3083">
 <Label>0</Label>
 <Location>
-<X>1058</X>
+<X>1072</X>
 <Y>770</Y>
-</Location>
-<Plug>
-<BlockConnector con-block-id="3079" connector-kind="plug" connector-type="number" init-type="number" label="" position-type="mirror"/>
-</Plug>
-</Block>
-<Block genus-name="number" id="3081">
-<Label>20</Label>
-<Location>
-<X>1058</X>
-<Y>722</Y>
 </Location>
 <Plug>
 <BlockConnector con-block-id="3079" connector-kind="plug" connector-type="number" init-type="number" label="" position-type="mirror"/>
@@ -71,7 +71,7 @@
 <Block genus-name="number" id="3080">
 <Label>2</Label>
 <Location>
-<X>1058</X>
+<X>1072</X>
 <Y>698</Y>
 </Location>
 <Plug>
@@ -81,7 +81,7 @@
 <Block genus-name="variable_number" id="3089">
 <Label>variable name</Label>
 <Location>
-<X>994</X>
+<X>1008</X>
 <Y>545</Y>
 </Location>
 <Plug>
@@ -91,7 +91,7 @@
 <Block genus-name="variable_number" id="3088">
 <Label>variable name</Label>
 <Location>
-<X>894</X>
+<X>908</X>
 <Y>344</Y>
 </Location>
 <Plug>
@@ -101,7 +101,7 @@
 <Block genus-name="number" id="3074">
 <Label>0</Label>
 <Location>
-<X>994</X>
+<X>1008</X>
 <Y>569</Y>
 </Location>
 <Plug>
@@ -126,7 +126,7 @@
 <Block genus-name="number" id="3076">
 <Label>0</Label>
 <Location>
-<X>994</X>
+<X>1008</X>
 <Y>617</Y>
 </Location>
 <Plug>
@@ -136,7 +136,7 @@
 <Block genus-name="number" id="3075">
 <Label>255</Label>
 <Location>
-<X>994</X>
+<X>1008</X>
 <Y>593</Y>
 </Location>
 <Plug>
@@ -144,9 +144,9 @@
 </Plug>
 </Block>
 <Block genus-name="number" id="3072">
-<Label>20</Label>
+<Label>10</Label>
 <Location>
-<X>994</X>
+<X>1008</X>
 <Y>521</Y>
 </Location>
 <Plug>
@@ -156,7 +156,7 @@
 <Block genus-name="number" id="3071">
 <Label>2</Label>
 <Location>
-<X>994</X>
+<X>1008</X>
 <Y>497</Y>
 </Location>
 <Plug>
@@ -181,7 +181,7 @@
 <Block genus-name="number" id="3067">
 <Label>0</Label>
 <Location>
-<X>894</X>
+<X>908</X>
 <Y>416</Y>
 </Location>
 <Plug>
@@ -191,7 +191,7 @@
 <Block genus-name="number" id="3066">
 <Label>0</Label>
 <Location>
-<X>894</X>
+<X>908</X>
 <Y>392</Y>
 </Location>
 <Plug>
@@ -201,7 +201,7 @@
 <Block genus-name="number" id="3065">
 <Label>255</Label>
 <Location>
-<X>894</X>
+<X>908</X>
 <Y>368</Y>
 </Location>
 <Plug>
@@ -209,9 +209,9 @@
 </Plug>
 </Block>
 <Block genus-name="number" id="3063">
-<Label>20</Label>
+<Label>10</Label>
 <Location>
-<X>894</X>
+<X>908</X>
 <Y>320</Y>
 </Location>
 <Plug>
@@ -221,7 +221,7 @@
 <Block genus-name="number" id="3062">
 <Label>2</Label>
 <Location>
-<X>894</X>
+<X>908</X>
 <Y>296</Y>
 </Location>
 <Plug>
@@ -443,7 +443,7 @@
 </Sockets>
 </Block>
 <Block genus-name="number" id="2696">
-<Label>20</Label>
+<Label>10</Label>
 <Location>
 <X>424</X>
 <Y>224</Y>
@@ -494,7 +494,7 @@
 </Plug>
 </Block>
 <Block genus-name="number" id="2587">
-<Label>20</Label>
+<Label>10</Label>
 <Location>
 <X>573</X>
 <Y>110</Y>

@@ -4,7 +4,7 @@
 <Page page-color="128 128 128" page-drawer="Main" page-infullview="yes" page-name="Main" page-width="1920">
 <PageBlocks>
 <Block genus-name="number" id="3323">
-<Label>20</Label>
+<Label>10</Label>
 <Location>
 <X>608</X>
 <Y>428</Y>
@@ -14,7 +14,7 @@
 </Plug>
 </Block>
 <Block genus-name="number" id="3313">
-<Label>20</Label>
+<Label>10</Label>
 <Location>
 <X>608</X>
 <Y>248</Y>
@@ -219,7 +219,7 @@
 </Plug>
 </Block>
 <Block genus-name="number" id="2587">
-<Label>20</Label>
+<Label>10</Label>
 <Location>
 <X>573</X>
 <Y>110</Y>

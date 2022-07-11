@@ -58,7 +58,7 @@
 </Plug>
 </Block>
 <Block genus-name="number" id="594">
-<Label>20</Label>
+<Label>10</Label>
 <Location>
 <X>522</X>
 <Y>235</Y>
@@ -109,7 +109,7 @@
 </Plug>
 </Block>
 <Block genus-name="number" id="493">
-<Label>20</Label>
+<Label>10</Label>
 <Location>
 <X>439</X>
 <Y>121</Y>
