@@ -2,6 +2,7 @@
 Documentation and resources for running a middle/high school level workshop on programming LEDs.
 
 Materials developed by Phillipa Gill & Ivan Lee. Based on materials by Ben Marlin. 
+Workshop contributors have also included: Brandon Oubre and Tauhidur Rahman.
 
 Please contact us if you have questions or want to contribute edits to the materials.
 
